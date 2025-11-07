@@ -1,0 +1,82 @@
+body{
+    background-color: #f1f3f6;
+}
+input{
+    width: 500px;
+    height: 30px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: #f1f3f6;
+    bor
+    
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    background-color: #f1f3f6;
+    padding: 10px 15px;
+    border-radius: 15px;
+    width: 400px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.05);
+    justify-content: space-around;
+    
+}
+
+.search-bar input::placeholder {
+    color: #757575;
+}
+.Login{
+    align-items: center;
+    display: flex;
+}
+.login-container{
+    padding-left: 50px;
+}
+table,tr,td{
+ 
+    padding: 5px;
+    font-size: 15px;
+    
+   
+}
+#table2{
+    padding: 20px;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+    outline:   #f1f3f6 solid 7px;
+    outline-width: 18px;
+   
+}
+#carouselExampleAutoplaying{
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.right-arrow {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: white;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
+    border-radius: 50%;
+    padding: 10px;
+    z-index: 10;
+  }
+  .flight-outline{
+    outline:   #f1f3f6 solid 7px;
+    outline-width: 18px;
+  }
+  .itemlist1{
+    outline:   #f1f3f6 solid 7px;
+    outline-width: 18px;
+  }
+  .itemlist2{
+    outline:   #f1f3f6 solid 7px;
+    outline-width: 18px;
+  }
